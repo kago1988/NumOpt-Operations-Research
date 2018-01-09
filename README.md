@@ -13,7 +13,8 @@ frequently held at the University of Freiburg.
 The numeric data-vectors which are being used were created artificially. The correspondent 
 command lines that were utilized to create the data are presented in the appendix. 
 
-Highlights are: -high-dimensional numeric data-vectors (dimension 185) 
--non-linear data-vector transformation, 
--transformation of a QP into a QCQP with arguments of convergence and arguments of SVD 
--application of a QCQP-solver (yaLMIp).
+Highlights are: 
+  -high-dimensional numeric data-vectors (dimension 185) 
+  -non-linear data-vector transformation 
+  -transformation of a QP into a QCQP with arguments of convergence and arguments of SVD 
+  -application of a QCQP-solver (yaLMIp).
